@@ -35,7 +35,6 @@ export default {
 }
 
 .character-card img {
-  width: 40%;
   height: 100%;
   opacity: 1;
   transition: opacity 0.5s ease 0s;
