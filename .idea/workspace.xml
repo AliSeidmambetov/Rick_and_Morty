@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d611470-9da3-4bb7-950a-1f807620a708" name="Changes" comment="added vercel.json file and changed name of Header.vue to AppHeader.vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/eslint/ed9a1e7a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/eslint/ed9a1e7a.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
