@@ -97,6 +97,7 @@ body {
 
 .pagination {
   margin-top: 2em;
+  padding-bottom: 2em;
 }
 
 .pagination button {
