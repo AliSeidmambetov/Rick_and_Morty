@@ -1,11 +1,6 @@
 <template>
   <section class="hero__Wrapper-sc-1h2eool-0 lgTwHp">
     <h1 class="hero__Title-sc-1h2eool-1 jiKqlM">The Rick and Morty API</h1>
-<!--    <div class="hero-image">-->
-<!--      <svg width="378" height="376" viewBox="0 0 378 376" fill="none">-->
-<!--        <path d=""></path>-->
-<!--      </svg>-->
-<!--    </div>-->
     <div class="filters">
       <input v-model="localFilters.name" placeholder="Filter by name" />
       <select v-model="localFilters.status">
